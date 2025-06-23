@@ -69,6 +69,7 @@ local armcommander = {
 	"armsolar",
 	"armmex",
 	"armmex",
+	"armcube",
 	"armlab",
 	"armllt",
 	"armrad",

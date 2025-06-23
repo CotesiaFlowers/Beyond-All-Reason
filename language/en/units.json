@@ -4,6 +4,7 @@
 			"arm": "Armada",
 			"cor": "Cortex",
 			"leg": "Legion",
+			"pol": "Polania",
 			"random": "Random"
 		},
 		"dead": "%{name} Wreckage",

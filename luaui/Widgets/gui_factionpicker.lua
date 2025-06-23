@@ -26,6 +26,8 @@ if Spring.GetModOptions().experimentallegionfaction and UnitDefNames.legcom then
 	factions[#factions+1] = { startUnit = UnitDefNames.legcom.id, faction = 'leg' }
 end
 
+factions[#factions+1] = { startUnit = UnitDefNames.legcom.id, faction = 'polania' }
+
 local doUpdate
 local playSounds = true
 local posY = 0.75

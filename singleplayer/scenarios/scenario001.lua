@@ -32,7 +32,7 @@ Tips:
         {name = "Hard"    , playerhandicap = 0,  enemyhandicap=25},
         {name = "Brutal" , playerhandicap = 0,  enemyhandicap=50},
     },
-    allowedsides     = {"Armada","Cortex","Random"}, --these are the permitted factions for this mission
+    allowedsides     = {"Armada","Cortex","Test","Random"}, --these are the permitted factions for this mission
 	victorycondition= "Kill all enemy Commanders", -- This is plaintext, but should be reflected in startscript
 	losscondition	= "Death of your Commander",  -- This is plaintext, but should be reflected in startscript
     unitlimits   = { -- table of unitdefname : maxnumberoftese units, 0 means disable it

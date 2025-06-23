@@ -18,4 +18,8 @@ return {
         name = "Legion",
         startunit = 'legcom',
     },
+    {
+        name = "Polania",
+        startunit = 'legcom',
+    },
 }

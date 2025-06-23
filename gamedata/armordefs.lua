@@ -103,6 +103,7 @@ local armorDefs = {
 		"armbrtha",
 		"armch",
 		"armck",
+		"armcube",
 		"armclaw",
 		"armcv",
 		"armdf",

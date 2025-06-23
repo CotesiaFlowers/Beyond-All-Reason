@@ -58,7 +58,7 @@ return {
 		turninplacespeedlimit = 0.825,
 		turnrate = 1148,
 		upright = true,
-		workertime = 300,
+		workertime = 30000,
 		buildoptions = {
 			[1] = "armrectr",
 			[2] = "armca",
@@ -67,6 +67,7 @@ return {
 			[5] = "armcsa",
 			[6] = "armcs",
 			[7] = "armcv",
+			[8] = "armcube",
 		},
 		customparams = {
 			i18nfromunit = "armcom",
